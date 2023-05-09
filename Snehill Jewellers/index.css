@@ -1,0 +1,179 @@
+body{
+	background-image:url('background3.jpg');
+}
+h1{
+	font-size:50px;
+	background-color:grey;
+	color:white;
+	font-family:arial;
+	border:3px solid darkgrey;
+	border-radius:45%;
+	text-align:center;
+}
+h2{
+	background-color:grey;
+	font-size:42px;
+	color:white;
+	outline:black;
+	border:3px solid darkgrey;
+}
+.first{
+	position:relative;
+	top:45px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.second{
+	position:relative;
+	top:130px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.third{
+	position:relative;
+	top:215px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.fourth{
+	position:relative;
+	top:300px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.fifth{
+	position:relative;
+	top:385px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.sixth{
+	position:relative;
+	top:470px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.seventh{
+	position:relative;
+	top:555px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.eighth{
+	position:relative;
+	top:640px;
+	left:95px;
+	height:280px;
+	width:380px;
+	border:6px solid darkgrey;
+	border-radius:7%
+}
+.one{
+    position:relative;
+    top:-50;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.two{
+    position:relative;
+    top:25;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.three{
+    position:relative;
+    top:100;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.four{
+    position:relative;
+    top:180;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.five{
+    position:relative;
+    top:260;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.six{
+    position:relative;
+    top:350;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.seven{
+    position:relative;
+    top:440;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	
+.eight{
+    position:relative;
+    top:525;
+	left:470px;
+	color:white;
+	background-color:blue;
+	border:2px solid white;
+	border-radius:8%;
+	font-size:75px;
+	text-align:center;
+}	

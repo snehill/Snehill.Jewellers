@@ -1,0 +1,83 @@
+body{
+	background-image:url('background3.jpg');
+}
+
+.first{
+	font-size:50px;
+	background-color:grey;
+	color:white;
+	font-family:arial;
+	border:3px solid darkgrey;
+	border-radius:45%;
+	text-align:center;
+}
+.one{
+	width:300px;
+	position:relative;
+	left:500;
+	right;400;
+}
+.two{
+	width:300px;
+	position:relative;
+	left:500;
+	right;400;
+}
+.three{
+	width:300px;
+	position:relative;
+	left:500;
+	right;400;
+}
+.four{
+	width:300px;
+	position:relative;
+	left:500;
+	right;400;
+}
+.second{
+	font-size:50px;
+	background-color:grey;
+	color:white;
+	font-family:arial;
+	border:3px solid darkgrey;
+	border-radius:5%;
+	text-align:center;
+	position:relative;
+	top:10px;
+	left:525;
+}
+.third{
+	font-size:50px;
+	background-color:grey;
+	color:white;
+	font-family:arial;
+	border:3px solid darkgrey;
+	border-radius:5%;
+	text-align:center;
+	position:relative;
+	top:30px;
+	left:525;
+}
+.fourth{
+	font-size:50px;
+	background-color:grey;
+	color:white;
+	font-family:arial;
+	border:3px solid darkgrey;
+	border-radius:5%;
+	text-align:center;
+	position:relative;
+	top:30px;
+	left:525;
+}
+.fifth{
+	font-size:50px;
+	background-color:grey;
+	color:white;
+	font-family:arial;
+	border:3px solid darkgrey;
+	border-radius:45%;
+	text-align:center;
+	position:relative;
+}
